@@ -1,0 +1,64 @@
+.header {
+   border-width: 50px;
+   height: 150px;
+   width: 700px; 
+   border: 5px black solid;
+
+}
+
+.rectangle {
+    background-color: blue;
+    height: 90px; 
+    width: 50px;
+    float: left;
+}
+
+.square {
+    background-color: green;
+    height: 100px; 
+    width: 250px;
+    float: left;
+    margin: 40px;
+}
+
+.circle {
+    background-color: lightblue;
+    height: 100px;
+    width: 100px;
+    float: left;
+    margin: 30px;
+    webkit-border-radius: 200px;
+    -moz-border-radius: 40px;
+    border-radius: 60px;
+}
+
+.content-mid {
+    height: 150px;
+    width: 700px;
+    border: 4px black dotted;
+    margin: 30px;
+}
+
+.secrec {
+    background-color: peachpuff;
+    height: 140px; 
+    width: 500px;
+    float: left;
+    
+}
+
+.footer {
+    border-width: 5px;
+    height: 150px;
+    width: 200px; 
+    border: 2px lightskyblue solid;
+    float: left;
+    margin: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    font-size: 25px;
+    text-transform: uppercase;
+}
