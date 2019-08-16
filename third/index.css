@@ -1,0 +1,45 @@
+.row {
+    height: 100px;
+    width: 100%;
+}
+.row-big {
+    height: 200px;
+    width: 100%;
+}
+.row-1 {
+  background-color: grey;
+  padding: 40px;
+  box-sizing: border-box;
+}
+.square {
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+.row-2 {
+  background-color: #fff;
+  height: 100px;
+  width: 100vw;
+  padding: 30px;
+  font-size: 18px;
+}
+.row-3 {
+    background-color: blue;
+    height: 100px;
+    width: 800px;
+}
+.row-4 {
+    background-color: lightblue;
+    height: 100px;
+    width: 800px;
+}
+.row-5 {
+    background-color: lightgreen;
+    height: 100px;
+    width: 800px;
+}
+.row-6 {
+    background-color: yellow;
+    height: 100px;
+    width: 800px;
+}
